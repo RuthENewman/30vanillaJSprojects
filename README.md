@@ -20,3 +20,7 @@ Repo - https://github.com/RuthENewman/IsItRainingInManchester
 # Day 5 - Emoji Memory Game
 Github pages - https://ruthenewman.github.io/EmojiMemoryGame/
 Repo - https://github.com/RuthENewman/EmojiMemoryGame
+
+# Day 6 - Wildlife Photographer Flex Panels
+Github pages - https://ruthenewman.github.io/WildlifePhotographerFlexPanels/
+Repo - https://github.com/RuthENewman/WildlifePhotographerFlexPanels
