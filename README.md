@@ -24,3 +24,7 @@ Repo - https://github.com/RuthENewman/EmojiMemoryGame
 # Day 6 - Wildlife Photographer Flex Panels
 Github pages - https://ruthenewman.github.io/WildlifePhotographerFlexPanels/
 Repo - https://github.com/RuthENewman/WildlifePhotographerFlexPanels
+
+# Day 7 - Beats Builder 
+Github pages - https://ruthenewman.github.io/BeatsBuilder/
+Repo - https://github.com/RuthENewman/BeatsBuilder
