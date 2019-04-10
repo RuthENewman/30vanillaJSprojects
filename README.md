@@ -28,3 +28,7 @@ Repo - https://github.com/RuthENewman/WildlifePhotographerFlexPanels
 # Day 7 - Beats Builder 
 Github pages - https://ruthenewman.github.io/BeatsBuilder/
 Repo - https://github.com/RuthENewman/BeatsBuilder
+
+# Day 8 - My Calculator App
+Github pages - https://ruthenewman.github.io/MyCalculatorApp
+Repo - https://github.com/RuthENewman/MyCalculatorApp
