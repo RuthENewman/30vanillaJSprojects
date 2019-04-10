@@ -32,3 +32,7 @@ Repo - https://github.com/RuthENewman/BeatsBuilder
 # Day 8 - My Calculator App
 Github pages - https://ruthenewman.github.io/MyCalculatorApp
 Repo - https://github.com/RuthENewman/MyCalculatorApp
+
+# Day 9 - From Manchester to the World
+Github pages - https://ruthenewman.github.io/FromManchesterToTheWorld/
+Repo - https://github.com/RuthENewman/FromManchesterToTheWorld
