@@ -36,3 +36,7 @@ Repo - https://github.com/RuthENewman/MyCalculatorApp
 # Day 9 - From Manchester to the World
 Github pages - https://ruthenewman.github.io/FromManchesterToTheWorld/
 Repo - https://github.com/RuthENewman/FromManchesterToTheWorld
+
+# Day 10 - Super Star Ratings
+Github pages - https://ruthenewman.github.io/SuperStarRatings/
+Repo - https://github.com/RuthENewman/SuperStarRatings
