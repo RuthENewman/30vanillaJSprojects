@@ -40,3 +40,7 @@ Repo - https://github.com/RuthENewman/FromManchesterToTheWorld
 # Day 10 - Super Star Ratings
 Github pages - https://ruthenewman.github.io/SuperStarRatings/
 Repo - https://github.com/RuthENewman/SuperStarRatings
+
+# Day 11 - Net Multi Flix
+Github pages - https://ruthenewman.github.io/NetMultiFlix/
+Repo - https://github.com/RuthENewman/NetMultiFlix
