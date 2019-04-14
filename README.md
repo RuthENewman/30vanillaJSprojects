@@ -46,4 +46,5 @@ Github pages - https://ruthenewman.github.io/NetMultiFlix/
 Repo - https://github.com/RuthENewman/NetMultiFlix
 
 # Day 12 - WTA Whizz Tennis Quiz 
+Github pages - https://ruthenewman.github.io/WTAWhizzTennisQuiz/
 Repo - https://github.com/RuthENewman/WTAWhizzTennisQuiz
