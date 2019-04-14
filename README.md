@@ -52,3 +52,7 @@ Repo - https://github.com/RuthENewman/WTAWhizzTennisQuiz
 # Day 13 - Avocado Craft Beer Latte
 Github pages - https://ruthenewman.github.io/AvocadoCraftBeerLatte/
 Repo - https://github.com/RuthENewman/AvocadoCraftBeerLatte
+
+# Day 14 - Random Poem Generator
+Github pages - https://ruthenewman.github.io/RandomPoemGenerator/
+Repo - https://github.com/RuthENewman/RandomPoemGenerator
