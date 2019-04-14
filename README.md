@@ -44,3 +44,6 @@ Repo - https://github.com/RuthENewman/SuperStarRatings
 # Day 11 - Net Multi Flix
 Github pages - https://ruthenewman.github.io/NetMultiFlix/
 Repo - https://github.com/RuthENewman/NetMultiFlix
+
+# Day 12 - WTA Whizz Tennis Quiz 
+Repo - https://github.com/RuthENewman/WTAWhizzTennisQuiz
