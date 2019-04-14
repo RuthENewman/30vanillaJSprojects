@@ -48,3 +48,7 @@ Repo - https://github.com/RuthENewman/NetMultiFlix
 # Day 12 - WTA Whizz Tennis Quiz 
 Github pages - https://ruthenewman.github.io/WTAWhizzTennisQuiz/
 Repo - https://github.com/RuthENewman/WTAWhizzTennisQuiz
+
+# Day 13 - Avocado Craft Beer Latte
+Github pages - https://ruthenewman.github.io/AvocadoCraftBeerLatte/
+Repo - https://github.com/RuthENewman/AvocadoCraftBeerLatte
