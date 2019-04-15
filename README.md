@@ -56,3 +56,7 @@ Repo - https://github.com/RuthENewman/AvocadoCraftBeerLatte
 # Day 14 - Random Poem Generator
 Github pages - https://ruthenewman.github.io/RandomPoemGenerator/
 Repo - https://github.com/RuthENewman/RandomPoemGenerator
+
+# Day 15 - Insult Polyglot
+Github pages - https://ruthenewman.github.io/InsultPolyglot/
+Repo - https://github.com/RuthENewman/InsultPolyglot
