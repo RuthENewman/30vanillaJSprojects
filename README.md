@@ -68,3 +68,7 @@ Repo - https://github.com/RuthENewman/MusicCityMusicVideos
 # Day 17 - Earth, Wind, Fire, Water
 Github pages - https://ruthenewman.github.io/EarthWindFireWater/
 Repo - https://github.com/RuthENewman/EarthWindFireWater
+
+# Day 18 - Make A Cake 
+Github pages - https://ruthenewman.github.io/MakeACake/
+Repo - https://github.com/RuthENewman/MakeACake
