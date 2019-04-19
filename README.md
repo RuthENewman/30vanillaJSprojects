@@ -64,3 +64,7 @@ Repo - https://github.com/RuthENewman/InsultPolyglot
 # Day 16 - Music City Music Videos
 Github pages - https://ruthenewman.github.io/MusicCityMusicVideos/
 Repo - https://github.com/RuthENewman/MusicCityMusicVideos
+
+# Day 17 - Earth, Wind, Fire, Water
+Github pages - https://ruthenewman.github.io/EarthWindFireWater/
+Repo - https://github.com/RuthENewman/EarthWindFireWater
