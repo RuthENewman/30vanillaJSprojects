@@ -72,3 +72,9 @@ Repo - https://github.com/RuthENewman/EarthWindFireWater
 # Day 18 - Make A Cake 
 Github pages - https://ruthenewman.github.io/MakeACake/
 Repo - https://github.com/RuthENewman/MakeACake
+
+# Day 19 - Polly The Parrot
+Github pages - https://ruthenewman.github.io/PollyTheParrot/
+Repo - https://github.com/RuthENewman/PollyTheParrot
+
+
