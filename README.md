@@ -81,4 +81,7 @@ Repo - https://github.com/RuthENewman/PollyTheParrot
 Github pages - https://ruthenewman.github.io/CocktailCreator/
 Repo - https://github.com/RuthENewman/CocktailCreator
 
+# Day 21 - Boredom Buster
+Github pages - https://ruthenewman.github.io/BoredomBuster/
+Repo - https://github.com/RuthENewman/BoredomBuster
 
