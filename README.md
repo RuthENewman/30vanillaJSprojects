@@ -85,3 +85,6 @@ Repo - https://github.com/RuthENewman/CocktailCreator
 Github pages - https://ruthenewman.github.io/BoredomBuster/
 Repo - https://github.com/RuthENewman/BoredomBuster
 
+# Day 22 - Talk To Type 
+Github pages - https://ruthenewman.github.io/TalkToType/
+Repo - https://github.com/RuthENewman/TalkToType
