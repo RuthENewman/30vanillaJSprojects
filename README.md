@@ -88,3 +88,7 @@ Repo - https://github.com/RuthENewman/BoredomBuster
 # Day 22 - Talk To Type 
 Github pages - https://ruthenewman.github.io/TalkToType/
 Repo - https://github.com/RuthENewman/TalkToType
+
+# Day 23 - One Season Following Another
+Github pages - https://ruthenewman.github.io/OneSeasonFollowingAnother/
+Repo - https://github.com/RuthENewman/OneSeasonFollowingAnother
