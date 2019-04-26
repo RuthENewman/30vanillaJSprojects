@@ -96,3 +96,7 @@ Repo - https://github.com/RuthENewman/OneSeasonFollowingAnother
 # Day 24 - Play Pacman
 Github pages - https://ruthenewman.github.io/PlayPacman/
 Repo - https://github.com/RuthENewman/PlayPacman
+
+# Day 25 - Retro Snake Game
+Github pages - https://ruthenewman.github.io/RetroSnakeGame/
+Repo - https://github.com/RuthENewman/RetroSnakeGame
