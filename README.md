@@ -92,3 +92,7 @@ Repo - https://github.com/RuthENewman/TalkToType
 # Day 23 - One Season Following Another
 Github pages - https://ruthenewman.github.io/OneSeasonFollowingAnother/
 Repo - https://github.com/RuthENewman/OneSeasonFollowingAnother
+
+# Day 24 - Play Pacman
+Github pages - https://ruthenewman.github.io/PlayPacman/
+Repo - https://github.com/RuthENewman/PlayPacman
