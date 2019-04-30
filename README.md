@@ -108,3 +108,7 @@ Repo - https://github.com/RuthENewman/TFLTimes
 # Day 27 - Noir Et Blanc
 Github pages - https://ruthenewman.github.io/NoirEtBlanc/
 Repo - https://github.com/RuthENewman/NoirEtBlanc
+
+# Day 28 - Play Ping
+Github pages - https://ruthenewman.github.io/PlayPing/
+Repo - https://github.com/RuthENewman/PlayPing
