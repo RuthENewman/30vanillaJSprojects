@@ -104,3 +104,7 @@ Repo - https://github.com/RuthENewman/RetroSnakeGame
 # Day 26 - TFL Times
 Github pages - https://ruthenewman.github.io/TFLTimes/
 Repo - https://github.com/RuthENewman/TFLTimes
+
+# Day 27 - Noir Et Blanc
+Github pages - https://ruthenewman.github.io/NoirEtBlanc/
+Repo - https://github.com/RuthENewman/NoirEtBlanc
