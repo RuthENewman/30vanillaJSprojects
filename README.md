@@ -112,3 +112,7 @@ Repo - https://github.com/RuthENewman/NoirEtBlanc
 # Day 28 - Play Ping
 Github pages - https://ruthenewman.github.io/PlayPing/
 Repo - https://github.com/RuthENewman/PlayPing
+
+# Day 29 - Retro Tetris Game
+Github pages - https://ruthenewman.github.io/RetroTetrisGame/
+Repo - https://github.com/RuthENewman/RetroTetrisGame
