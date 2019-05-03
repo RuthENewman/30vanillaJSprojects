@@ -116,3 +116,7 @@ Repo - https://github.com/RuthENewman/PlayPing
 # Day 29 - Retro Tetris Game
 Github pages - https://ruthenewman.github.io/RetroTetrisGame/
 Repo - https://github.com/RuthENewman/RetroTetrisGame
+
+# Day 30 - Helter Skelter Crazy Filters
+Github pages - https://ruthenewman.github.io/HelterSkelterCrazyFilters/
+Repo - https://github.com/RuthENewman/HelterSkelterCrazyFilters
