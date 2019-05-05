@@ -1,5 +1,5 @@
 # Projects listing of a challenge to complete 30 vanilla JS projects over 30 days 
-New projects will be added once completed and deployed
+All projects deployed at the links below, but may be updated / maintained from time to time.
 
 # Day 1 - Are You Hungry Yet?
 Github pages - https://ruthenewman.github.io/AreYouHungryYet/
